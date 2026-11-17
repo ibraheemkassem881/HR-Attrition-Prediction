@@ -1,0 +1,312 @@
+Employee_Name,EmpID,MarriedID,MaritalStatusID,GenderID,EmpStatusID,DeptID,PerfScoreID,FromDiversityJobFairID,Salary,Termd,PositionID,Position,Sex,DateofHire,DateofTermination,TermReason,EmploymentStatus,Department,PerformanceScore,EmpSatisfaction,DaysLateLast30
+"Adinolfi, Wilson  K",10026,0,0,1,1,5,4,0,62506,0,19,Production Technician I,M ,7/5/2011,,N/A-StillEmployed,Active,Production       ,Exceeds,5,0
+"Ait Sidi, Karthikeyan   ",10084,1,1,1,5,3,3,0,104437,1,27,Sr. DBA,M ,3/30/2015,6/16/2016,career change,Voluntarily Terminated,IT/IS,Fully Meets,3,0
+"Akinkuolie, Sarah",10196,1,1,0,5,5,3,0,64955,1,20,Production Technician II,F,7/5/2011,9/24/2012,hours,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Alagbe,Trina",10088,1,1,0,1,5,3,0,64991,0,19,Production Technician I,F,1/7/2008,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Anderson, Carol ",10069,0,2,0,5,5,3,0,50825,1,19,Production Technician I,F,7/11/2011,9/6/2016,return to school,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Anderson, Linda  ",10002,0,0,0,1,5,4,0,57568,0,19,Production Technician I,F,1/9/2012,,N/A-StillEmployed,Active,Production       ,Exceeds,5,0
+"Andreola, Colby",10194,0,0,0,1,4,3,0,95660,0,24,Software Engineer,F,11/10/2014,,N/A-StillEmployed,Active,Software Engineering,Fully Meets,3,0
+"Athwal, Sam",10062,0,4,1,1,5,3,0,59365,0,19,Production Technician I,M ,9/30/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Bachiochi, Linda",10114,0,0,0,3,5,3,1,47837,0,19,Production Technician I,F,7/6/2009,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Bacong, Alejandro ",10250,0,2,1,1,3,3,0,50178,0,14,IT Support,M ,1/5/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Baczenski, Rachael  ",10252,1,1,0,5,5,3,1,54670,1,19,Production Technician I,F,1/10/2011,1/12/2017,Another position,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Barbara, Thomas",10242,1,1,1,5,5,3,1,47211,1,19,Production Technician I,M ,4/2/2012,9/19/2016,unhappy,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Barbossa, Hector",10012,0,2,1,1,3,4,1,92328,0,9,Data Analyst,M ,11/10/2014,,N/A-StillEmployed,Active,IT/IS,Exceeds,4,0
+"Barone, Francesco  A",10265,0,0,1,1,5,3,0,58709,0,19,Production Technician I,M ,2/20/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Barton, Nader",10066,0,2,1,5,5,3,0,52505,1,19,Production Technician I,M ,9/24/2012,4/6/2017,Another position,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Bates, Norman",10061,0,0,1,4,5,3,0,57834,1,19,Production Technician I,M ,2/21/2011,8/4/2017,attendance,Terminated for Cause,Production       ,Fully Meets,4,0
+"Beak, Kimberly  ",10023,1,1,0,2,5,4,0,70131,0,20,Production Technician II,F,7/21/2016,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Beatrice, Courtney ",10055,0,0,0,1,5,3,0,59026,0,19,Production Technician I,F,4/4/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Becker, Renee",10245,0,0,0,4,3,3,0,110000,1,8,Database Administrator,F,7/7/2014,9/12/2015,performance,Terminated for Cause,IT/IS,Fully Meets,4,0
+"Becker, Scott",10277,0,0,1,3,5,3,0,53250,0,19,Production Technician I,M ,7/8/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Bernstein, Sean",10046,0,0,1,1,5,3,0,51044,0,19,Production Technician I,M ,4/2/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Biden, Lowan  M",10226,0,2,0,1,5,3,0,64919,0,19,Production Technician I,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Billis, Helen",10003,1,1,0,1,5,4,0,62910,0,19,Production Technician I,F,7/7/2014,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Blount, Dianna",10294,0,0,0,1,5,2,0,66441,0,20,Production Technician II,F,4/4/2011,,N/A-StillEmployed,Active,Production       ,Needs Improvement,3,2
+"Bondwell, Betsy",10267,0,0,0,5,5,3,0,57815,1,20,Production Technician II,F,1/10/2011,4/4/2014,career change,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Booth, Frank",10199,0,0,1,4,3,3,0,103613,1,30,Enterprise Architect,M ,2/17/2014,2/19/2016,Learned that he is a gangster,Terminated for Cause,IT/IS,Fully Meets,5,0
+"Boutwell, Bonalyn",10081,1,1,0,1,1,3,1,106367,0,26,Sr. Accountant,F,2/16/2015,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,4,0
+"Bozzi, Charles",10175,0,0,1,5,5,3,0,74312,1,18,Production Manager,M ,9/30/2013,8/7/2014,retiring,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Brill, Donna",10177,1,1,0,5,5,3,0,53492,1,19,Production Technician I,F,4/2/2012,6/15/2013,Another position,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Brown, Mia",10238,1,1,0,1,1,3,1,63000,0,1,Accountant I,F,10/27/2008,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,2,0
+"Buccheri, Joseph  ",10184,0,0,1,1,5,3,0,65288,0,20,Production Technician II,M ,9/29/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Bugali, Josephine ",10203,0,3,0,3,5,3,1,64375,0,19,Production Technician I,F,11/11/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Bunbury, Jessica",10188,1,1,0,5,6,3,0,74326,1,3,Area Sales Manager,F,8/15/2011,8/2/2014,Another position,Voluntarily Terminated,Sales,Fully Meets,5,1
+"Burke, Joelle",10107,0,0,0,1,5,3,0,63763,0,20,Production Technician II,F,3/5/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Burkett, Benjamin ",10181,1,1,1,1,5,3,0,62162,0,20,Production Technician II,M ,4/4/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Cady, Max ",10150,0,0,1,1,4,3,0,77692,0,25,Software Engineering Manager,M ,8/15/2011,,N/A-StillEmployed,Active,Software Engineering,Fully Meets,3,0
+"Candie, Calvin",10001,0,0,1,1,5,4,0,72640,0,18,Production Manager,M ,1/28/2016,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Carabbio, Judith",10085,0,0,0,1,4,3,0,93396,0,24,Software Engineer,F,11/11/2013,,N/A-StillEmployed,Active,Software Engineering,Fully Meets,4,0
+"Carey, Michael  ",10115,0,0,1,1,5,3,0,52846,0,19,Production Technician I,M ,3/31/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Carr, Claudia  N",10082,0,0,0,2,3,3,0,100031,0,27,Sr. DBA,F,6/30/2016,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Carter, Michelle ",10040,0,0,0,1,6,3,0,71860,0,3,Area Sales Manager,F,8/18/2014,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Chace, Beatrice ",10067,0,0,0,1,5,3,0,61656,0,19,Production Technician I,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Champaigne, Brian",10108,1,1,1,1,3,3,0,110929,0,5,BI Director,M ,9/6/2016,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Chan, Lin",10210,0,0,0,1,5,3,0,54237,0,19,Production Technician I,F,5/12/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Chang, Donovan  E",10154,0,0,1,1,5,3,0,60380,0,19,Production Technician I,M ,7/8/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Chigurh, Anton",10200,0,0,1,1,6,3,0,66808,0,3,Area Sales Manager,M ,5/14/2012,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Chivukula, Enola",10240,0,0,0,5,5,3,0,64786,1,19,Production Technician I,F,6/27/2011,11/15/2015,relocation out of area,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Cierpiszewski, Caroline  ",10168,0,0,0,1,5,3,0,64816,0,19,Production Technician I,F,10/3/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Clayton, Rick",10220,0,0,1,1,3,3,0,68678,0,14,IT Support,M ,9/5/2012,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Cloninger, Jennifer",10275,1,1,0,5,5,3,0,64066,1,20,Production Technician II,F,5/16/2011,1/7/2013,unhappy,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Close, Phil",10269,1,1,1,5,5,3,0,59369,1,20,Production Technician II,M ,8/30/2010,9/26/2011,career change,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Clukey, Elijian",10029,1,1,1,2,5,4,0,50373,0,19,Production Technician I,M ,7/6/2016,,N/A-StillEmployed,Active,Production       ,Exceeds,4,0
+"Cockel, James",10261,0,0,1,1,5,3,0,63108,0,19,Production Technician I,M ,7/8/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Cole, Spencer",10292,0,0,1,4,5,2,0,59144,1,19,Production Technician I,M ,7/11/2011,9/23/2016,performance,Terminated for Cause,Production       ,Needs Improvement,3,5
+"Corleone, Michael",10282,0,2,1,1,5,2,0,68051,0,18,Production Manager,M ,7/20/2010,,N/A-StillEmployed,Active,Production       ,Needs Improvement,2,3
+"Corleone, Vito",10019,0,0,1,1,5,4,0,170500,0,10,Director of Operations,M ,1/5/2009,,N/A-StillEmployed,Active,Production       ,Exceeds,5,0
+"Cornett, Lisa ",10094,1,1,0,1,5,3,0,63381,0,19,Production Technician I,F,1/5/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Costello, Frank",10193,1,1,1,1,3,3,0,83552,0,9,Data Analyst,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Crimmings,   Jean",10132,0,0,0,2,5,3,0,56149,0,19,Production Technician I,F,7/6/2016,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Cross, Noah",10083,0,0,1,1,3,3,0,92329,0,28,Sr. Network Engineer,M ,11/10/2014,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Daneault, Lynn",10099,0,0,0,1,6,3,0,65729,0,21,Sales Manager,F,5/5/2014,,N/A-StillEmployed,Active,Sales,Fully Meets,4,0
+"Daniele, Ann  ",10212,1,1,0,3,3,3,0,85028,0,28,Sr. Network Engineer,F,11/10/2014,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Darson, Jene'ya ",10056,1,1,0,1,5,3,0,57583,0,19,Production Technician I,F,7/2/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Davis, Daniel",10143,0,0,1,1,5,3,0,56294,0,20,Production Technician II,M ,11/7/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Dee, Randy",10311,1,1,1,1,6,1,0,56991,0,19,Production Technician I,M ,7/9/2018,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,2
+"DeGweck,  James",10070,1,1,1,5,5,3,0,55722,1,19,Production Technician I,M ,5/16/2011,6/8/2016,unhappy,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Del Bosque, Keyla",10155,0,0,0,1,4,3,0,101199,0,24,Software Engineer,F,1/9/2012,,N/A-StillEmployed,Active,Software Engineering,Fully Meets,5,0
+"Delarge, Alex",10306,0,0,1,1,6,1,0,61568,0,3,Area Sales Manager,M ,9/29/2014,,N/A-StillEmployed,Active,Sales,PIP,3,6
+"Demita, Carla",10100,0,3,0,5,5,3,0,58275,1,20,Production Technician II,F,4/4/2011,11/4/2015,more money,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Desimone, Carl ",10310,1,1,1,1,5,1,0,53189,0,19,Production Technician I,M ,7/7/2014,,N/A-StillEmployed,Active,Production       ,PIP,2,4
+"DeVito, Tommy",10197,0,0,1,1,3,3,0,96820,0,4,BI Developer,M ,2/15/2017,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Dickinson, Geoff ",10276,0,0,1,1,5,3,0,51259,0,19,Production Technician I,M ,5/12/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Dietrich, Jenna  ",10304,0,0,0,1,6,1,0,59231,0,3,Area Sales Manager,F,2/20/2012,,N/A-StillEmployed,Active,Sales,PIP,1,2
+"DiNocco, Lily ",10284,1,1,0,1,5,2,0,61584,0,19,Production Technician I,F,1/7/2013,,N/A-StillEmployed,Active,Production       ,Needs Improvement,4,0
+"Dobrin, Denisa  S",10207,0,0,0,1,5,3,0,46335,0,19,Production Technician I,F,4/2/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Dolan, Linda",10133,1,1,0,1,3,3,0,70621,0,14,IT Support,F,1/5/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Dougall, Eric",10028,0,0,1,1,3,4,0,138888,0,13,IT Manager - Support,M ,1/5/2014,,N/A-StillEmployed,Active,IT/IS,Exceeds,5,0
+"Driver, Elle",10006,0,0,0,1,6,4,0,74241,0,3,Area Sales Manager,F,1/10/2011,,N/A-StillEmployed,Active,Sales,Exceeds,5,0
+"Dunn, Amy  ",10105,0,0,0,1,5,3,0,75188,0,18,Production Manager,F,9/18/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Dunne, Amy",10211,1,1,0,1,5,3,0,62514,0,19,Production Technician I,F,4/26/2010,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Eaton, Marianne",10064,1,1,0,5,5,3,0,60070,1,19,Production Technician I,F,4/4/2011,6/6/2017,military,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Engdahl, Jean",10247,0,0,1,1,5,3,0,48888,0,19,Production Technician I,M ,11/10/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"England, Rex",10235,1,1,1,1,5,3,0,54285,0,19,Production Technician I,M ,3/31/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Erilus, Angela",10299,0,3,0,1,5,1,0,56847,0,20,Production Technician II,F,7/7/2014,,N/A-StillEmployed,Active,Production       ,PIP,1,2
+"Estremera, Miguel",10280,0,0,1,4,5,2,0,60340,1,19,Production Technician I,M ,4/2/2012,9/27/2018,attendance,Terminated for Cause,Production       ,Needs Improvement,4,5
+"Evensen, April",10296,0,0,0,4,5,2,0,59124,1,19,Production Technician I,F,2/17/2014,2/25/2018,"no-call, no-show",Terminated for Cause,Production       ,Needs Improvement,3,5
+"Exantus, Susan",10290,1,1,0,4,4,2,0,99280,1,24,Software Engineer,F,5/2/2011,6/5/2013,attendance,Terminated for Cause,Software Engineering,Needs Improvement,5,4
+"Faller, Megan ",10263,1,1,0,1,5,3,0,71776,0,20,Production Technician II,F,7/7/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Fancett, Nicole",10136,0,0,0,1,5,3,0,65902,0,20,Production Technician II,F,2/17/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Ferguson, Susan",10189,1,1,0,5,5,3,0,57748,1,19,Production Technician I,F,11/7/2011,5/17/2016,military,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Fernandes, Nilson  ",10308,1,1,1,1,5,1,0,64057,0,19,Production Technician I,M ,5/11/2015,,N/A-StillEmployed,Active,Production       ,PIP,5,6
+"Fett, Boba",10309,0,0,1,1,3,1,0,53366,0,15,Network Engineer,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,PIP,3,3
+"Fidelia,  Libby",10049,1,1,0,1,5,3,0,58530,0,19,Production Technician I,F,1/9/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Fitzpatrick, Michael  J",10093,0,0,1,5,5,3,0,72609,1,20,Production Technician II,M ,5/16/2011,6/24/2013,hours,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Foreman, Tanya",10163,1,1,0,5,5,3,0,55965,1,20,Production Technician II,F,4/4/2011,1/9/2013,career change,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Forrest, Alex",10305,1,1,1,1,6,3,0,70187,1,3,Area Sales Manager,M ,9/29/2014,8/19/2018,Fatal attraction,Terminated for Cause,Sales,PIP,5,4
+"Foss, Jason",10015,0,0,1,1,3,4,0,178000,0,12,IT Director,M ,4/15/2011,,N/A-StillEmployed,Active,IT/IS,Exceeds,5,0
+"Foster-Baker, Amy",10080,1,1,0,1,1,3,0,99351,0,26,Sr. Accountant,F,1/5/2009,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,3,0
+"Fraval, Maruk ",10258,0,0,1,1,6,3,0,67251,0,3,Area Sales Manager,M ,9/6/2011,,N/A-StillEmployed,Active,Sales,Fully Meets,3,2
+"Galia, Lisa",10273,0,0,0,1,3,3,0,65707,0,14,IT Support,F,5/1/2010,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Garcia, Raul",10111,0,0,1,1,5,3,0,52249,0,19,Production Technician I,M ,3/30/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Gaul, Barbara",10257,0,0,0,1,5,3,0,53171,0,19,Production Technician I,F,5/16/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Gentry, Mildred",10159,1,1,0,1,5,3,0,51337,0,19,Production Technician I,F,3/30/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Gerke, Melisa",10122,0,2,0,5,5,3,1,51505,1,19,Production Technician I,F,11/7/2011,11/15/2016,hours,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Gill, Whitney  ",10142,0,4,0,4,6,3,0,59370,1,3,Area Sales Manager,F,7/7/2014,9/5/2015,attendance,Terminated for Cause,Sales,Fully Meets,4,0
+"Gilles, Alex",10283,1,1,1,5,5,2,1,54933,1,19,Production Technician I,M ,4/2/2012,6/25/2015,military,Voluntarily Terminated,Production       ,Needs Improvement,4,3
+"Girifalco, Evelyn",10018,0,0,0,1,5,4,0,57815,0,19,Production Technician I,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Exceeds,4,0
+"Givens, Myriam",10255,0,0,0,1,6,3,0,61555,0,3,Area Sales Manager,F,2/16/2015,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Goble, Taisha",10246,0,0,0,4,3,3,0,114800,1,8,Database Administrator,F,2/16/2015,3/15/2015,"no-call, no-show",Terminated for Cause,IT/IS,Fully Meets,4,0
+"Goeth, Amon",10228,1,1,1,1,3,3,0,74679,0,14,IT Support,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Gold, Shenice  ",10243,0,0,0,1,5,3,0,53018,0,19,Production Technician I,F,11/11/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Gonzalez, Cayo",10031,0,2,1,1,5,4,1,59892,0,19,Production Technician I,M ,7/11/2011,,N/A-StillEmployed,Active,Production       ,Exceeds,4,0
+"Gonzalez, Juan",10300,1,1,1,5,5,1,1,68898,1,20,Production Technician II,M ,4/26/2010,5/30/2011,career change,Voluntarily Terminated,Production       ,PIP,3,3
+"Gonzalez, Maria",10101,0,3,0,1,3,3,0,61242,0,14,IT Support,F,1/5/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Good, Susan",10237,1,1,0,3,5,3,0,66825,0,20,Production Technician II,F,5/12/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Gordon, David",10051,1,1,1,1,5,3,0,48285,0,19,Production Technician I,M ,7/2/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Gosciminski, Phylicia  ",10218,0,3,0,3,5,3,0,66149,0,20,Production Technician II,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Goyal, Roxana",10256,1,1,0,3,5,3,0,49256,0,19,Production Technician I,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Gray, Elijiah  ",10098,0,2,1,1,5,3,0,62957,0,18,Production Manager,M ,6/2/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Gross, Paula",10059,0,2,0,5,5,3,0,63813,1,19,Production Technician I,F,2/21/2011,1/11/2014,more money,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Gruber, Hans",10234,1,1,1,1,3,3,0,99020,0,4,BI Developer,M ,4/20/2017,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Guilianno, Mike",10109,0,0,1,5,6,3,0,71707,1,3,Area Sales Manager,M ,3/7/2012,10/31/2014,relocation out of area,Voluntarily Terminated,Sales,Fully Meets,5,0
+"Handschiegl, Joanne",10125,1,1,0,1,5,3,0,54828,0,19,Production Technician I,F,11/28/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Hankard, Earnest",10074,0,0,1,1,5,3,0,64246,0,20,Production Technician II,M ,11/11/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Harrington, Christie ",10097,0,0,0,5,5,3,0,52177,1,19,Production Technician I,F,1/9/2012,12/15/2015,retiring,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Harrison, Kara",10007,1,1,0,1,5,4,0,62065,0,19,Production Technician I,F,5/12/2014,,N/A-StillEmployed,Active,Production       ,Exceeds,4,0
+"Heitzman, Anthony",10129,0,0,1,1,5,3,0,46998,0,19,Production Technician I,M ,8/13/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Hendrickson, Trina",10075,0,0,0,5,5,3,0,68099,1,20,Production Technician II,F,1/10/2011,6/18/2013,hours,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Hitchcock, Alfred",10167,1,1,1,1,6,3,0,70545,0,3,Area Sales Manager,M ,8/18/2014,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Homberger, Adrienne  J",10195,1,1,0,5,5,3,0,63478,1,20,Production Technician II,F,8/15/2011,4/7/2012,relocation out of area,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Horton, Jayne",10112,0,0,0,1,3,3,0,97999,0,8,Database Administrator,F,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Houlihan, Debra",10272,1,1,0,1,6,3,0,180000,0,11,Director of Sales,F,5/5/2014,,N/A-StillEmployed,Active,Sales,Fully Meets,4,0
+"Howard, Estelle",10182,1,1,0,1,1,3,0,49920,1,2,Administrative Assistant,F,2/16/2015,4/15/2015,"no-call, no-show",Terminated for Cause,Admin Offices,Fully Meets,3,0
+"Hudson, Jane",10248,0,0,0,1,5,3,0,55425,0,19,Production Technician I,F,2/20/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Hunts, Julissa",10201,0,0,0,2,5,3,0,69340,0,20,Production Technician II,F,6/6/2016,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Hutter, Rosalie",10214,0,3,0,2,5,3,0,64995,0,20,Production Technician II,F,6/5/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Huynh, Ming",10160,0,2,0,5,5,3,0,68182,1,20,Production Technician II,F,2/21/2011,4/1/2013,unhappy,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Immediato, Walter",10289,1,1,1,5,5,2,0,83082,1,18,Production Manager,M ,2/21/2011,9/24/2012,unhappy,Voluntarily Terminated,Production       ,Needs Improvement,2,3
+"Ivey, Rose ",10139,0,0,0,1,5,3,0,51908,0,19,Production Technician I,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Jackson, Maryellen",10227,0,0,0,1,5,3,0,61242,0,19,Production Technician I,F,11/5/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Jacobi, Hannah  ",10236,0,2,0,1,5,3,0,45069,0,19,Production Technician I,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Jeannite, Tayana",10009,0,2,0,1,5,4,0,60724,0,20,Production Technician II,F,7/5/2011,,N/A-StillEmployed,Active,Production       ,Exceeds,4,0
+"Jhaveri, Sneha  ",10060,0,3,0,1,5,3,0,60436,0,19,Production Technician I,F,1/6/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Johnson, George",10034,1,1,1,5,5,4,0,46837,1,19,Production Technician I,M ,11/7/2011,4/29/2018,more money,Voluntarily Terminated,Production       ,Exceeds,4,0
+"Johnson, Noelle ",10156,1,1,0,3,3,3,0,105700,0,8,Database Administrator,F,1/5/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Johnston, Yen",10036,0,0,0,1,5,4,0,63322,0,20,Production Technician II,F,7/7/2014,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Jung, Judy  ",10138,1,1,0,5,5,3,0,61154,1,19,Production Technician I,F,1/10/2011,4/1/2016,unhappy,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Kampew, Donysha",10244,0,0,0,5,6,3,0,68999,1,21,Sales Manager,F,11/7/2011,4/24/2014,maternity leave - did not return,Voluntarily Terminated,Sales,Fully Meets,5,0
+"Keatts, Kramer ",10192,0,0,1,1,5,3,0,50482,0,19,Production Technician I,M ,9/30/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Khemmich, Bartholemew",10231,0,0,1,1,6,3,0,65310,0,3,Area Sales Manager,M ,8/19/2013,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"King, Janet",10089,1,1,0,1,2,3,0,250000,0,16,President & CEO,F,7/2/2012,,N/A-StillEmployed,Active,Executive Office,Fully Meets,3,0
+"Kinsella, Kathleen  ",10166,1,1,0,5,5,3,0,54005,1,19,Production Technician I,F,9/26/2011,6/4/2015,more money,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Kirill, Alexandra  ",10170,1,1,0,5,5,3,0,45433,1,19,Production Technician I,F,9/26/2011,1/9/2014,more money,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Knapp, Bradley  J",10208,0,0,1,1,5,3,0,46654,0,19,Production Technician I,M ,2/17/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Kretschmer, John",10176,1,1,1,1,5,3,0,63973,0,19,Production Technician I,M ,1/10/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Kreuger, Freddy",10165,0,0,1,1,6,3,1,71339,0,3,Area Sales Manager,M ,3/7/2011,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Lajiri,  Jyoti",10113,1,1,1,3,3,3,0,93206,0,28,Sr. Network Engineer,M ,11/10/2014,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Landa, Hans",10092,1,1,1,4,5,3,0,82758,1,18,Production Manager,M ,1/10/2011,12/12/2015,attendance,Terminated for Cause,Production       ,Fully Meets,4,0
+"Langford, Lindsey",10106,0,2,0,5,5,3,0,66074,1,20,Production Technician II,F,1/7/2013,3/31/2014,Another position,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Langton, Enrico",10052,1,1,1,1,5,3,0,46120,0,19,Production Technician I,M ,7/9/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"LaRotonda, William  ",10038,0,2,1,1,1,3,0,64520,0,1,Accountant I,M ,1/6/2014,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,4,0
+"Latif, Mohammed",10249,1,1,1,5,5,3,0,61962,1,20,Production Technician II,M ,4/2/2012,4/15/2013,more money,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Le, Binh",10232,0,0,0,1,3,3,0,81584,0,22,Senior BI Developer,F,10/2/2016,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Leach, Dallas",10087,0,0,0,5,5,3,0,63676,1,19,Production Technician I,F,9/26/2011,8/19/2018,return to school,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"LeBlanc, Brandon  R",10134,1,1,1,1,1,3,0,93046,0,23,Shared Services Manager,M ,1/5/2016,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,4,0
+"Lecter, Hannibal",10251,1,1,1,1,5,3,0,64738,0,19,Production Technician I,M ,5/14/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Leruth, Giovanni",10103,0,3,1,1,6,3,0,70468,0,3,Area Sales Manager,M ,4/30/2012,,N/A-StillEmployed,Active,Sales,Fully Meets,3,0
+"Liebig, Ketsia",10017,1,1,0,1,5,4,0,77915,0,18,Production Manager,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Linares, Marilyn ",10186,1,1,0,5,5,3,0,52624,1,19,Production Technician I,F,7/5/2011,9/26/2018,unhappy,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Linden, Mathew",10137,1,1,1,3,5,3,0,63450,0,20,Production Technician II,M ,7/8/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Lindsay, Leonara ",10008,0,0,0,1,3,4,1,51777,0,14,IT Support,F,1/21/2011,,N/A-StillEmployed,Active,IT/IS,Exceeds,4,0
+"Lundy, Susan",10096,0,4,0,5,5,3,0,67237,1,20,Production Technician II,F,7/8/2013,9/15/2016,more money,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Lunquist, Lisa",10035,0,0,0,1,5,4,0,73330,0,20,Production Technician II,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Exceeds,4,0
+"Lydon, Allison",10057,1,1,0,3,5,3,0,52057,0,19,Production Technician I,F,2/16/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Lynch, Lindsay",10004,0,0,0,5,5,4,1,47434,1,19,Production Technician I,F,11/7/2011,11/14/2015,Another position,Voluntarily Terminated,Production       ,Exceeds,4,0
+"MacLennan, Samuel",10191,0,4,1,5,5,3,0,52788,1,19,Production Technician I,M ,9/24/2012,9/26/2017,hours,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Mahoney, Lauren  ",10219,0,0,0,1,5,3,0,45395,0,19,Production Technician I,F,1/6/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Manchester, Robyn",10077,1,1,0,2,5,3,0,62385,0,20,Production Technician II,F,5/11/2016,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Mancuso, Karen",10073,1,1,0,5,5,3,0,68407,1,20,Production Technician II,F,7/5/2011,8/19/2012,Another position,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Mangal, Debbie",10279,1,1,0,1,5,3,0,61349,0,19,Production Technician I,F,11/11/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Martin, Sandra",10110,0,0,0,1,4,3,0,105688,0,24,Software Engineer,F,11/11/2013,,N/A-StillEmployed,Active,Software Engineering,Fully Meets,5,0
+"Maurice, Shana",10053,1,1,0,1,5,3,0,54132,0,19,Production Technician I,F,5/31/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Carthy, B'rigit",10076,0,0,0,1,5,3,0,55315,0,20,Production Technician II,F,3/30/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Mckenna, Sandy",10145,1,1,0,1,5,3,0,62810,0,19,Production Technician I,F,1/7/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"McKinzie, Jac",10202,1,1,1,2,6,3,0,63291,0,3,Area Sales Manager,M ,7/6/2016,,N/A-StillEmployed,Active,Sales,Fully Meets,4,0
+"Meads, Elizabeth",10128,0,0,0,5,5,3,1,62659,1,19,Production Technician I,F,4/2/2012,11/11/2016,Another position,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Medeiros, Jennifer",10068,0,0,0,1,5,3,0,55688,0,19,Production Technician I,F,3/30/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Miller, Brannon",10116,0,0,1,1,5,3,0,83667,0,18,Production Manager,M ,8/16/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Miller, Ned",10298,0,0,1,5,5,1,0,55800,1,20,Production Technician II,M ,8/15/2011,9/4/2014,unhappy,Voluntarily Terminated,Production       ,PIP,2,6
+"Monkfish, Erasumus",10213,1,1,1,1,5,3,0,58207,0,20,Production Technician II,M ,11/7/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Monroe, Peter",10288,1,1,1,1,3,2,1,157000,0,13,IT Manager - Infra,M ,2/15/2012,,N/A-StillEmployed,Active,IT/IS,Needs Improvement,3,4
+"Monterro, Luisa",10025,0,0,0,1,5,4,0,72460,0,20,Production Technician II,F,5/13/2013,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Moran, Patrick",10223,0,0,1,3,5,3,1,72106,0,20,Production Technician II,M ,1/9/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Morway, Tanya",10151,1,1,0,1,3,3,0,52599,0,15,Network Engineer,F,2/16/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Motlagh,  Dawn",10254,0,2,0,1,5,3,0,63430,0,19,Production Technician I,F,4/1/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Moumanil, Maliki ",10120,0,3,1,1,5,3,0,74417,0,20,Production Technician II,M ,5/13/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Myers, Michael",10216,0,0,1,1,5,3,0,57575,0,19,Production Technician I,M ,7/8/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Navathe, Kurt",10079,0,0,1,1,3,3,0,87921,0,22,Senior BI Developer,M ,2/10/2017,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Ndzi, Colombui",10215,0,0,1,5,5,3,1,50470,1,19,Production Technician I,M ,9/26/2011,4/4/2014,return to school,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Ndzi, Horia",10185,1,1,1,5,5,3,0,46664,1,19,Production Technician I,M ,4/1/2013,5/25/2016,more money,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Newman, Richard ",10063,1,1,1,3,5,3,0,48495,0,19,Production Technician I,M ,5/12/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Ngodup, Shari ",10037,0,3,0,1,5,4,1,52984,0,19,Production Technician I,F,4/1/2013,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Nguyen, Dheepa",10042,0,0,0,1,6,3,0,63695,0,3,Area Sales Manager,F,7/8/2013,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Nguyen, Lei-Ming",10206,0,0,0,1,5,3,0,62061,0,19,Production Technician I,F,7/8/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Nowlan, Kristie",10104,0,0,0,1,5,3,0,66738,0,20,Production Technician II,F,11/10/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"O'hare, Lynn",10303,0,0,0,4,5,1,0,52674,1,19,Production Technician I,F,3/31/2014,5/1/2018,performance,Terminated for Cause,Production       ,PIP,2,6
+"Oliver, Brooke ",10078,1,1,0,5,5,3,0,71966,1,20,Production Technician II,F,5/14/2012,8/19/2013,unhappy,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Onque, Jasmine",10121,0,0,0,1,6,3,0,63051,0,3,Area Sales Manager,F,9/30/2013,,N/A-StillEmployed,Active,Sales,Fully Meets,3,0
+"Osturnka, Adeel",10021,1,1,1,1,5,4,0,47414,0,19,Production Technician I,M ,9/30/2013,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Owad, Clinton",10281,0,0,1,1,5,2,0,53060,0,19,Production Technician I,M ,2/17/2014,,N/A-StillEmployed,Active,Production       ,Needs Improvement,3,4
+"Ozark, Travis",10041,0,0,1,1,6,3,0,68829,0,3,Area Sales Manager,M ,1/5/2015,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Panjwani, Nina",10148,1,1,0,5,5,3,0,63515,1,19,Production Technician I,F,2/7/2011,1/12/2014,Another position,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Patronick, Lucas",10005,0,0,1,5,4,4,1,108987,1,24,Software Engineer,M ,11/7/2011,9/7/2015,Another position,Voluntarily Terminated,Software Engineering,Exceeds,5,0
+"Pearson, Randall",10259,1,1,1,5,3,3,0,93093,1,9,Data Analyst,M ,12/1/2014,5/1/2016,performance,Voluntarily Terminated,IT/IS,Fully Meets,4,0
+"Smith, Martin",10286,0,0,1,5,5,2,0,53564,1,19,Production Technician I,M ,1/10/2011,12/28/2017,career change,Voluntarily Terminated,Production       ,Needs Improvement,5,4
+"Pelletier, Ermine",10297,1,1,0,5,5,2,0,60270,1,20,Production Technician II,F,7/5/2011,9/15/2015,unhappy,Voluntarily Terminated,Production       ,Needs Improvement,5,5
+"Perry, Shakira",10171,0,0,0,5,5,3,0,45998,1,19,Production Technician I,F,5/16/2011,10/25/2015,medical issues,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Peters, Lauren",10032,1,1,0,5,5,4,0,57954,1,20,Production Technician II,F,5/16/2011,2/4/2013,more money,Voluntarily Terminated,Production       ,Exceeds,5,0
+"Peterson, Ebonee  ",10130,1,1,0,5,5,3,0,74669,1,18,Production Manager,F,10/25/2010,5/18/2016,Another position,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Petingill, Shana  ",10217,1,1,0,1,5,3,0,74226,0,20,Production Technician II,F,4/2/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Petrowsky, Thelma",10016,1,1,0,1,3,4,0,93554,0,9,Data Analyst,F,11/10/2014,,N/A-StillEmployed,Active,IT/IS,Exceeds,5,0
+"Pham, Hong",10050,1,1,1,5,5,3,0,64724,1,19,Production Technician I,M ,7/5/2011,11/30/2012,more money,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Pitt, Brad ",10164,0,0,1,1,5,3,0,47001,0,19,Production Technician I,M ,11/5/2007,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Potts, Xana",10124,1,1,0,1,6,3,0,61844,0,3,Area Sales Manager,F,1/9/2012,,N/A-StillEmployed,Active,Sales,Fully Meets,5,0
+"Power, Morissa",10187,0,2,0,5,5,3,0,46799,1,19,Production Technician I,F,5/16/2011,6/4/2018,Another position,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Punjabhi, Louis  ",10225,0,0,1,1,5,3,0,59472,0,19,Production Technician I,M ,1/6/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Purinton, Janine",10262,0,2,0,5,5,3,0,46430,1,19,Production Technician I,F,9/24/2012,6/18/2013,unhappy,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Quinn, Sean",10131,1,1,1,5,1,3,1,83363,1,23,Software Engineer,M ,2/21/2011,8/15/2015,career change,Voluntarily Terminated,Software Engineering,Fully Meets,4,0
+"Rachael, Maggie",10239,1,1,0,1,3,3,0,95920,0,4,BI Developer,F,10/2/2016,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Rarrick, Quinn",10152,0,2,1,5,5,3,0,61729,1,19,Production Technician I,M ,9/26/2011,4/7/2018,more money,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Ren, Kylo",10140,1,1,1,1,6,3,0,61809,0,3,Area Sales Manager,M ,5/12/2014,,N/A-StillEmployed,Active,Sales,Fully Meets,3,0
+"Rhoads, Thomas",10058,0,2,1,5,5,3,0,45115,1,19,Production Technician I,M ,5/16/2011,1/15/2016,retiring,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Rivera, Haley  ",10011,1,1,0,1,5,4,0,46738,0,19,Production Technician I,F,11/28/2011,,N/A-StillEmployed,Active,Production       ,Exceeds,5,0
+"Roberson, May",10230,0,2,0,5,5,3,0,64971,1,20,Production Technician II,F,9/26/2011,10/22/2011,return to school,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Robertson, Peter",10224,1,1,1,5,5,3,0,55578,1,20,Production Technician II,M ,7/5/2011,2/8/2012,Another position,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Robinson, Alain  ",10047,1,1,1,5,5,3,0,50428,1,19,Production Technician I,M ,1/10/2011,1/26/2016,attendance,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Robinson, Cherly",10285,1,1,0,4,5,2,0,61422,1,19,Production Technician I,F,1/10/2011,5/17/2016,attendance,Terminated for Cause,Production       ,Needs Improvement,3,4
+"Robinson, Elias",10020,0,4,1,1,5,4,0,63353,0,19,Production Technician I,M ,7/8/2013,,N/A-StillEmployed,Active,Production       ,Exceeds,5,0
+"Roby, Lori ",10162,1,1,0,1,3,3,0,89883,0,9,Data Analyst,F,2/16/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Roehrich, Bianca",10149,0,0,0,5,3,3,0,120000,1,29,Principal Data Architect,F,1/5/2015,11/10/2018,Another position,Voluntarily Terminated,IT/IS,Fully Meets,3,0
+"Roper, Katie",10086,0,0,0,1,3,3,0,150290,0,7,Data Architect,F,1/7/2017,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Rose, Ashley  ",10054,0,3,0,1,5,3,0,60627,0,19,Production Technician I,F,1/6/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Rossetti, Bruno",10065,0,0,1,5,5,3,0,53180,1,19,Production Technician I,M ,4/4/2011,8/13/2018,Another position,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Roup,Simon",10198,0,0,1,1,3,3,0,140920,0,13,IT Manager - DB,M ,1/20/2013,,N/A-StillEmployed,Active,IT/IS,Fully Meets,5,0
+"Ruiz, Ricardo",10222,0,2,1,5,3,3,1,148999,1,13,IT Manager - DB,M ,1/9/2012,11/4/2015,hours,Voluntarily Terminated,IT/IS,Fully Meets,4,0
+"Saada, Adell",10126,1,1,0,1,4,3,0,86214,0,24,Software Engineer,F,11/5/2012,,N/A-StillEmployed,Active,Software Engineering,Fully Meets,3,0
+"Saar-Beckles, Melinda",10295,0,0,0,2,5,2,1,47750,0,19,Production Technician I,F,7/4/2016,,N/A-StillEmployed,Active,Production       ,Needs Improvement,4,5
+"Sadki, Nore  ",10260,0,0,1,5,5,3,0,46428,1,19,Production Technician I,M ,1/5/2009,7/30/2018,relocation out of area,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Sahoo, Adil",10233,1,1,1,1,5,3,0,57975,0,20,Production Technician II,M ,8/30/2010,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Salter, Jason",10229,0,2,1,5,3,3,0,88527,1,9,Data Analyst ,M ,1/5/2015,10/31/2015,hours,Voluntarily Terminated,IT/IS,Fully Meets,3,0
+"Sander, Kamrin",10169,1,1,0,1,5,3,0,56147,0,19,Production Technician I,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Sewkumar, Nori",10071,0,0,0,3,5,3,0,50923,0,19,Production Technician I,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Shepard, Anita ",10179,1,1,0,1,3,3,0,50750,0,15,Network Engineer,F,9/30/2014,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Shields, Seffi",10091,1,1,0,1,5,3,0,52087,0,19,Production Technician I,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Simard, Kramer",10178,1,1,1,1,3,3,0,87826,0,9,Data Analyst,M ,1/5/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Singh, Nan ",10039,0,0,0,1,1,3,0,51920,0,2,Administrative Assistant,F,5/1/2015,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,3,0
+"Sloan, Constance",10095,0,0,0,5,5,3,0,63878,1,20,Production Technician II,F,10/26/2009,4/8/2015,maternity leave - did not return,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Smith, Joe",10027,0,0,1,1,5,4,0,60656,0,20,Production Technician II,M ,9/29/2014,,N/A-StillEmployed,Active,Production       ,Exceeds,3,0
+"Smith, John",10291,0,2,1,1,6,2,1,72992,0,21,Sales Manager,M ,5/18/2014,,N/A-StillEmployed,Active,Sales,Needs Improvement,4,2
+"Smith, Leigh Ann",10153,1,1,0,5,1,3,1,55000,1,2,Administrative Assistant,F,9/26/2011,9/25/2013,career change,Voluntarily Terminated,Admin Offices,Fully Meets,4,0
+"Smith, Sade",10157,0,0,0,1,5,3,0,58939,0,19,Production Technician I,F,11/11/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Soto, Julia ",10119,1,1,0,1,3,3,0,66593,0,14,IT Support,F,6/10/2011,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Soze, Keyser",10180,1,1,1,2,3,3,0,87565,0,28,Sr. Network Engineer,M ,6/30/2016,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Sparks, Taylor  ",10302,1,1,0,1,5,1,0,64021,0,19,Production Technician I,F,2/20/2012,,N/A-StillEmployed,Active,Production       ,PIP,2,6
+"Spirea, Kelley",10090,1,1,0,1,5,3,0,65714,0,18,Production Manager,F,10/2/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Squatrito, Kristen",10030,0,2,0,5,5,4,0,62425,1,19,Production Technician I,F,5/13/2013,6/29/2015,unhappy,Voluntarily Terminated,Production       ,Exceeds,4,0
+"Stanford,Barbara  M",10278,0,2,0,1,5,3,0,47961,0,19,Production Technician I,F,1/10/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Stansfield, Norman",10307,1,1,1,1,6,1,0,58273,0,3,Area Sales Manager,M ,5/12/2014,,N/A-StillEmployed,Active,Sales,PIP,2,3
+"Steans, Tyrone  ",10147,0,0,1,1,1,3,0,63003,0,1,Accountant I,M ,9/29/2014,,N/A-StillEmployed,Active,Admin Offices,Fully Meets,5,0
+"Stoica, Rick",10266,1,1,1,1,5,3,0,61355,0,19,Production Technician I,M ,2/17/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Strong, Caitrin",10241,1,1,0,1,6,3,0,60120,0,3,Area Sales Manager,F,9/27/2010,,N/A-StillEmployed,Active,Sales,Fully Meets,4,0
+"Sullivan, Kissy ",10158,1,1,0,1,5,3,0,63682,0,18,Production Manager,F,1/8/2009,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Sullivan, Timothy",10117,1,1,1,1,5,3,0,63025,0,19,Production Technician I,M ,1/5/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Sutwell, Barbara",10209,0,0,0,1,5,3,0,59238,0,19,Production Technician I,F,5/14/2012,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Szabo, Andrew",10024,0,0,1,1,4,4,0,92989,0,24,Software Engineer,M ,7/7/2014,,N/A-StillEmployed,Active,Software Engineering,Exceeds,5,0
+"Tannen, Biff",10173,1,1,1,1,3,3,0,90100,0,4,BI Developer,M ,4/20/2017,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Tavares, Desiree  ",10221,1,1,0,5,5,3,1,60754,1,19,Production Technician I,F,4/27/2009,4/1/2013,Another position,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Tejeda, Lenora ",10146,1,1,0,5,5,3,0,72202,1,20,Production Technician II,F,5/16/2011,7/8/2017,Another position,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Terry, Sharlene ",10161,0,0,0,1,6,3,0,58370,0,3,Area Sales Manager,F,9/29/2014,,N/A-StillEmployed,Active,Sales,Fully Meets,3,0
+"Theamstern, Sophia",10141,0,0,0,5,5,3,0,48413,1,19,Production Technician I,F,7/5/2011,9/5/2016,return to school,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Thibaud, Kenneth",10268,0,4,1,5,5,3,0,67176,1,20,Production Technician II,M ,6/25/2007,8/30/2010,military,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Tippett, Jeanette",10123,0,2,0,1,5,3,0,56339,0,19,Production Technician I,F,2/18/2013,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Torrence, Jack",10013,0,3,1,1,6,4,0,64397,0,3,Area Sales Manager,M ,1/9/2006,,N/A-StillEmployed,Active,Sales,Exceeds,3,0
+"Trang, Mei",10287,0,0,0,1,5,2,0,63025,0,19,Production Technician I,F,2/17/2014,,N/A-StillEmployed,Active,Production       ,Needs Improvement,5,4
+"Tredinnick, Neville ",10044,1,1,1,5,3,3,0,75281,1,15,Network Engineer,M ,1/5/2015,2/12/2016,medical issues,Voluntarily Terminated,IT/IS,Fully Meets,3,0
+"True, Edward",10102,0,0,1,5,4,3,1,100416,1,24,Software Engineer,M ,2/18/2013,4/15/2018,medical issues,Voluntarily Terminated,Software Engineering,Fully Meets,3,0
+"Trzeciak, Cybil",10270,0,0,0,5,5,3,0,74813,1,20,Production Technician II,F,1/10/2011,7/2/2014,unhappy,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Turpin, Jumil",10045,1,1,1,1,3,3,0,76029,0,15,Network Engineer,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Valentin,Jackie",10205,1,1,0,1,6,3,0,57859,0,3,Area Sales Manager,F,7/5/2011,,N/A-StillEmployed,Active,Sales,Fully Meets,3,0
+"Veera, Abdellah ",10014,0,2,1,5,5,4,0,58523,1,19,Production Technician I,M ,8/13/2012,2/5/2016,maternity leave - did not return,Voluntarily Terminated,Production       ,Exceeds,5,0
+"Vega, Vincent",10144,0,2,1,1,5,3,0,88976,0,17,Production Manager,M ,8/1/2011,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Villanueva, Noah",10253,0,0,1,1,6,3,0,55875,0,3,Area Sales Manager,M ,3/5/2012,,N/A-StillEmployed,Active,Sales,Fully Meets,4,0
+"Voldemort, Lord",10118,1,1,1,4,3,3,0,113999,1,8,Database Administrator,M ,2/16/2015,2/22/2017,"no-call, no-show",Terminated for Cause,IT/IS,Fully Meets,3,0
+"Volk, Colleen",10022,1,1,0,4,5,4,0,49773,1,19,Production Technician I,F,9/26/2011,2/8/2016,gross misconduct,Terminated for Cause,Production       ,Exceeds,5,0
+"Von Massenbach, Anna",10183,0,0,0,2,5,3,0,62068,0,19,Production Technician I,F,7/5/2015,,N/A-StillEmployed,Active,Production       ,Fully Meets,3,0
+"Walker, Roger",10190,0,0,1,1,5,3,0,66541,0,20,Production Technician II,M ,8/18/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
+"Wallace, Courtney  E",10274,1,1,0,5,5,3,1,80512,1,18,Production Manager,F,9/26/2011,1/2/2012,Another position,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Wallace, Theresa",10293,0,0,0,5,5,2,0,50274,1,19,Production Technician I,F,8/13/2012,9/1/2015,career change,Voluntarily Terminated,Production       ,Needs Improvement,3,6
+"Wang, Charlie",10172,0,0,1,1,3,3,0,84903,0,22,Senior BI Developer,M ,2/15/2017,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Warfield, Sarah",10127,0,4,0,1,3,3,0,107226,0,28,Sr. Network Engineer,F,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,4,0
+"Whittier, Scott",10072,0,0,1,5,5,3,0,58371,1,19,Production Technician I,M ,1/10/2011,5/15/2014,hours,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Wilber, Barry",10048,1,1,1,5,5,3,0,55140,1,19,Production Technician I,M ,5/16/2011,9/7/2015,unhappy,Voluntarily Terminated,Production       ,Fully Meets,3,0
+"Wilkes, Annie",10204,0,2,0,5,5,3,0,58062,1,19,Production Technician I,F,1/10/2011,5/14/2012,Another position,Voluntarily Terminated,Production       ,Fully Meets,5,0
+"Williams, Jacquelyn  ",10264,0,0,0,5,5,3,1,59728,1,19,Production Technician I,F,1/9/2012,6/27/2015,relocation out of area,Voluntarily Terminated,Production       ,Fully Meets,4,0
+"Winthrop, Jordan  ",10033,0,0,1,5,5,4,0,70507,1,20,Production Technician II,M ,1/7/2013,2/21/2016,retiring,Voluntarily Terminated,Production       ,Exceeds,3,0
+"Wolk, Hang  T",10174,0,0,0,1,5,3,0,60446,0,20,Production Technician II,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Woodson, Jason",10135,0,0,1,1,5,3,0,65893,0,20,Production Technician II,M ,7/7/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,4,0
+"Ybarra, Catherine ",10301,0,0,0,5,5,1,0,48513,1,19,Production Technician I,F,9/2/2008,9/29/2015,Another position,Voluntarily Terminated,Production       ,PIP,2,5
+"Zamora, Jennifer",10010,0,0,0,1,3,4,0,220450,0,6,CIO,F,4/10/2010,,N/A-StillEmployed,Active,IT/IS,Exceeds,5,0
+"Zhou, Julia",10043,0,0,0,1,3,3,0,89292,0,9,Data Analyst,F,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Fully Meets,3,0
+"Zima, Colleen",10271,0,4,0,1,5,3,0,45046,0,19,Production Technician I,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Fully Meets,5,0
